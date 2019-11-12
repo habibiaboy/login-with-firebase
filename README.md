@@ -14,22 +14,7 @@ Test Login with firebase
 
 ### And Firebase
 
-you can use your user firebase in here 
-
-Example : 
-
-   // Your web app's Firebase configuration
-   var firebaseConfig = {
-     apiKey: "",
-     authDomain: "",
-     databaseURL: "",
-     projectId: "",
-     storageBucket: "",
-     messagingSenderId: "",
-     appId: ""
-   };
-   // Initialize Firebase
-   firebase.initializeApp(firebaseConfig);
+you can use your user firebase in var firebaseConfig
 
 
 ## Deployment
