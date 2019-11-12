@@ -17,10 +17,6 @@ Test Login with firebase
 you can use your user firebase in var firebaseConfig
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Authors
 
 * **Habibiaboy** 
